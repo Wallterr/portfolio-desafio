@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 95px;
+    font-family: 'Heebo';
+    font-size: 20px;
+    font-weight: bold;
+ 
+
+}
+
+.navbar ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+
+    
+}
+
+.navbar li{
+    margin: 1em;
+
+}
+
+.navbar a{
+    text-decoration: none;
+}

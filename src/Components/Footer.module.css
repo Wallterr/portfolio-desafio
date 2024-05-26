@@ -1,0 +1,26 @@
+.Footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.Footer ul{
+    list-style: none;
+    display: flex;
+    margin-bottom:  25px;
+    margin-right: 65px;
+}
+
+.Footer li{
+    margin-left: 30px;
+}
+
+.Copy{
+    font-family: 'Heebo';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20.56px;
+    text-align: center;
+    margin-bottom: 15px;
+}
+

@@ -1,0 +1,53 @@
+.blog{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    width: 1400px;
+    height: 396px;
+    background-color:#EDF7FA;
+    margin-top: 75px;
+}
+
+.blogCard{
+    width: 418px;
+    height: 295px;
+    top: 664px;
+    margin-left: 49px;
+    gap: 0px;
+    border-radius: 4px 0px 0px 0px;
+    opacity: 0px;
+    background: #FFFFFF;
+    margin-top: 55px;
+    font-family: 'Heebo';
+}
+
+.blogCard h3{
+    font-family: Heebo;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 38.19px;
+    text-align: left;
+    padding: 15px;
+}
+
+.blogCard h4{
+    font-family: 'Heebo';
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26.44px;
+    text-align: left;
+    padding: 15px;
+}
+
+.blogCard p{
+    font-family: 'Heebo';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 23.5px;
+    text-align: left;
+    padding: 15px;
+}
+
+span{
+    margin-left: 25px;
+}
